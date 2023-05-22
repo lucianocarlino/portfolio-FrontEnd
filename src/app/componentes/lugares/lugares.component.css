@@ -1,0 +1,27 @@
+.contenedorPrinc{
+    margin-left: 50px;
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    grid-template-rows: 1fr;
+    column-gap: 10px;
+    font-family: sans-serif;
+    padding: 15px;
+}
+
+.contenedorNom{
+    text-align: center;
+}
+
+.contenedorNom img{
+    height: 100px; 
+    width: 100px;
+
+}
+
+.contenedorPrinc{
+
+}
+
+.contenedorInfo{
+    
+}

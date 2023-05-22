@@ -1,0 +1,33 @@
+botonLogin{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-left: 10px;
+}
+
+logoConLink{
+    justify-content: flex-start;
+}
+
+.navbar{
+    display: flex;
+    padding: 1px;
+    justify-content:space-between;
+}
+
+.parteIzq{
+    display: flex;
+    align-items: center;
+}
+
+.redesSociales{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px;
+}
+
+.banner img{
+    width: 100%; 
+    height: auto;
+}
